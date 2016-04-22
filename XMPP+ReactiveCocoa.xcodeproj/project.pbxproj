@@ -563,7 +563,7 @@
 			children = (
 				18B8EEDD1CC6302600F2D063 /* libresolv.tbd */,
 				18B8EE841CC62FAA00F2D063 /* libxml2.tbd */,
-				18B8EE191CC62F3800F2D063 /* caonima */,
+				18B8EE191CC62F3800F2D063 /* XMPP+ReactiveCocoa */,
 				18B8EE331CC62F3800F2D063 /* caonimaTests */,
 				18B8EE3E1CC62F3800F2D063 /* caonimaUITests */,
 				18B8EE181CC62F3800F2D063 /* Products */,
@@ -582,7 +582,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		18B8EE191CC62F3800F2D063 /* caonima */ = {
+		18B8EE191CC62F3800F2D063 /* XMPP+ReactiveCocoa */ = {
 			isa = PBXGroup;
 			children = (
 				18B8F0951CC9FDA600F2D063 /* Model */,
@@ -599,6 +599,7 @@
 				18B8EE4D1CC62F5F00F2D063 /* xmpp */,
 				18B8EE1A1CC62F3800F2D063 /* Supporting Files */,
 			);
+			name = "XMPP+ReactiveCocoa";
 			path = caonima;
 			sourceTree = "<group>";
 		};
